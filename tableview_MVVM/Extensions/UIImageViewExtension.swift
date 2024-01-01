@@ -1,9 +1,3 @@
-//
-//  UIImageViewExtension.swift
-//  tableview_MVVM
-//
-//  Created by Samir Raut on 26/12/23.
-//
 
 import UIKit
 
