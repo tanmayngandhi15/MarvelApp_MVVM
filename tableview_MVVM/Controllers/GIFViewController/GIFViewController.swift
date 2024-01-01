@@ -1,9 +1,3 @@
-//
-//  GIFViewController.swift
-//  tableview_MVVM
-//
-//  Created by Samir Raut on 29/12/23.
-//
 
 import UIKit
 
